@@ -3,7 +3,7 @@ templateKey: index-page
 title: TechTrendys
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: A place where human meets technology
 mainpitch:
   title: Why Kaldi
   description: >
